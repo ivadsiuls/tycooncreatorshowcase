@@ -1,6 +1,6 @@
 # Tycoon Creator
 
-Source code for Tycoon Creator. This game was made using the Nevermore Engine libraries.
+Source code for an early version of my game, Tycoon Creator. Made with Nevermore Engine.
 
 ## Tools
 
