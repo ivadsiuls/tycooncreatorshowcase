@@ -1,0 +1,20 @@
+{
+    "editor.defaultFormatter": "JohnnyMorganz.stylua",
+    "cSpell.words": [
+        "Aftman",
+        "attributeutils",
+        "clienttranslator",
+        "cmdrservice",
+        "johnnymorganz",
+        "Kampfkarren",
+        "moonwave",
+        "quenty",
+        "Quenty",
+        "rojo",
+        "rtime",
+        "servicebag",
+        "stylua",
+        "tycooncreator"
+    ],
+    "editor.formatOnSave": true
+}

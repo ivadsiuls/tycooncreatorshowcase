@@ -1,0 +1,28 @@
+{
+  "name": "Tycoon Creator",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "Roblox",
+    "Nevermore",
+    "Lua",
+    "Tycoon",
+    "Sandbox",
+    "Tycoon Creator"
+  ],
+  "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License",
+  "dependencies": {
+    "@quenty/attributeutils": "^14.18.0",
+    "@quenty/binder": "^14.20.0",
+    "@quenty/clienttranslator": "^14.20.0",
+    "@quenty/cmdrservice": "^13.23.0",
+    "@quenty/datastore": "^13.22.0",
+    "@quenty/loader": "^10.9.0",
+    "@quenty/servicebag": "^11.12.0",
+    "@quenty/sounds": "^10.11.0",
+    "@quenty/sprites": "^13.17.0"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  }
+}
