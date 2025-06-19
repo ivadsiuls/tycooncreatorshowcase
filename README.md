@@ -1,6 +1,3 @@
-> [!WARNING]
-> This is a private repository. Sharing or showing the code inside this repository is strictly forbidden and will result in being removed from the team and possible legal action.
-
 # Tycoon Creator
 
 Source code for Tycoon Creator. This game was made using the Nevermore Engine libraries.
